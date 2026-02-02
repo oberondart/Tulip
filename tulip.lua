@@ -1,9 +1,9 @@
--- Tulip scripting language
+-- Sparkle scripting language
 standard_functions = require 'standardlib'
 
 local filename = arg[1]
 if not filename then
-    print("Usage: tulip <script.tulip>")
+    print("Usage: tulip <script.spark>")
     return
 end
 
