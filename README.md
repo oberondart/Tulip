@@ -9,7 +9,7 @@ Sparkle is a lightweight scripting language designed for simple text processing 
 ### Running a Sparkle Script
 
 ```bash
-tulip script.spark
+spark script.spark
 ```
 
 ### Your First Script
